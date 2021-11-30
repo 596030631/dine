@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14bdbf62-00f5-4a01-a2bc-14f07347c6f7" name="centos">
+        <fileTransfer rootFolder="/home/lighthouse" accessType="SFTP" host="150.158.133.213" port="22" sshConfigId="cec37250-5462-4a63-ad0a-d4e439092987" sshConfig="lighthouse@150.158.133.213:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
